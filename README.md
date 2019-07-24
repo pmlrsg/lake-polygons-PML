@@ -1,4 +1,5 @@
 # lake-polygons-PML
+https://zenodo.org/badge/69982025.svg
 
 This repository contains well-known-text (WKT) representations of the maximum water extent of a large number of water bodies. They have been created in the following steps:
 
